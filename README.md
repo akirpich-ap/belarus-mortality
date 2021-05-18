@@ -1,6 +1,6 @@
 # belarus-mortality
 
-Written by Alexander Kirpich Ph.D.
+Alexander Kirpich Ph.D.
 
 Georgia State University
 
