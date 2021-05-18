@@ -1,4 +1,4 @@
-# Belarus - Overall Mortality Data Analysis
+Belarus - Overall Mortality Data Analysis
 
 Alexander Kirpich Ph.D.
 
