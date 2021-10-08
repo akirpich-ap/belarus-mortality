@@ -5,6 +5,8 @@ the case of a country with limited non-pharmaceutical interventions and limited 
 
 Alexander Kirpich Ph.D.
 
+School of Public Health
+
 Georgia State University
 
 akirpich@gsu.edu
